@@ -1,4 +1,4 @@
-package aula07;
+package cursojava.aula07;
 
 class Erro03 {
   public static void main (String[] args){

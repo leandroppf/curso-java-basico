@@ -1,4 +1,4 @@
-package aula05.exercicios;
+package cursojava.aula05.exercicios;
 
 class OlaMundo {
   public static void main (String[] args){

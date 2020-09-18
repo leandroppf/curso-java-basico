@@ -1,4 +1,4 @@
-package aula06.exercicios;
+package cursojava.aula06.exercicios;
 
 class Argumentos2 {
   public static void main (String[] args){
