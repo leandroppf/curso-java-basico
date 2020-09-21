@@ -5,7 +5,7 @@ public class Variaveis {
 
     int idade = 20;
     String nome = "Loiane";
-    String nomeDoMeuCachorro = "totó";
+    // String nomeDoMeuCachorro = "totó";
 
     idade = 25;
 
